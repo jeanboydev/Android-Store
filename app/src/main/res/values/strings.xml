@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="data_user_0_package_name"><![CDATA[/data/user/0/<package_name>/]]></string>
+    <string name="storage_emulated_0_android_data_package_name"><![CDATA[/storage/emulated/0/Android/data/<package_name>/]]></string>
+    <string name="storage_emulated_0_videos">/storage/emulated/0/Videos</string>
+    <string name="storage_emulated_0_images">/storage/emulated/0/Images</string>
+    <string name="storage_emulated_0_audios">/storage/emulated/0/Audios</string>
+</resources>
